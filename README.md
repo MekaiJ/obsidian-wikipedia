@@ -17,5 +17,10 @@ Since this plugin is not yet in the Community Plugins directory, you can install
    `node esbuild.config.mjs production`
 5. Open Obsidian, go to Settings > Community Plugins, reload your plugins list, and toggle on Obsidian Wikipedia Viewer.
 
+## Contribute!
+Have any issues or feature requests? Please use GitHub's issues page.
+
+Want to solve any of these issues or implement requested features? Open a PR for your implementation and it will be reviewed!
+
 ## LLM Disclosure
 LLMs were used in the initial production of this plugin to push out an MVP as soon as possible.
