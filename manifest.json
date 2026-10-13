@@ -1,6 +1,6 @@
 {
   "id": "obsidian-wikipedia",
-  "name": "Native Wikipedia Viewer",
+  "name": "Obsidian Wikipedia Viewer",
   "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "View Wikipedia articles natively inside Obsidian.",
