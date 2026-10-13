@@ -1,5 +1,7 @@
 # obsidian-wikipedia
 An Obsidian plugin that allows you to search for and view Wikipedia articles directly in your vault. This plugin uses the Wikipedia REST API instead of an Iframe.
+<img width="1830" height="1361" alt="image" src="https://github.com/user-attachments/assets/b0230c52-afed-4f4f-b2df-5a581bcd868e" />
+
 ## Features
 - Native Styling: Articles perfectly match your Obsidian theme (Dark/Light mode, custom fonts).
 - Interactive Outline: A toggle-able sidebar that generates a Table of Contents from the article's headers. Click any header to scroll directly to that section.
