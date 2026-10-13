@@ -9,7 +9,7 @@ An Obsidian plugin that allows you to search for and view Wikipedia articles dir
 Since this plugin is not yet in the Community Plugins directory, you can install it manually:
 1. Navigate to your vault's plugins folder: `.obsidian/plugins/`
 2. Clone this repository:
-   `git clone https://github.com/MekaiJ/obsidian-wikipedia.git native-wikipedia`
+   `git clone https://github.com/MekaiJ/obsidian-wikipedia.git obsidian-wikipedia`
 3. Navigate into the folder and install dependencies:
    `cd obsidian-wikipedia`
    `npm install`
