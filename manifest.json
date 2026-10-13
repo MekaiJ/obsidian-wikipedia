@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-wikipedia",
+  "name": "Native Wikipedia Viewer",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "View Wikipedia articles natively inside Obsidian.",
+  "author": "Your Name",
+  "isDesktopOnly": false
+}
